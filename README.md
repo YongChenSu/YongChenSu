@@ -11,7 +11,7 @@
 <h3 align="left">📫 Connect with me</h3>
 
 - Gmail: **yongchensu0@gmail.com**
-- CakeResume: **https://www.cakeresume.com/yongchensu0**
+- CakeResume: **[https://www.cakeresume.com/yongchensu0](https://www.cakeresume.com/me/yongchensu0)**
 - Blog: **https://program-4th-notes.coderbridge.io/**
 
 -------------
