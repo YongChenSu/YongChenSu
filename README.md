@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YongChen</h1>
+<h1 align="center">Hi 👋, I'm YongChen (Harry)</h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/YongChenSu/YongChenSu/main/banner.gif">
