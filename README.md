@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/YongChenSu/YongChenSu/main/banner.gif">
 </p>
 
-<h4 align="center">A passionate Frontend Engineer with over 3 years of development experience, committed to optimizing web performance.</h3>
+<h4 align="center">A passionate Frontend Engineer with over 4.5 years of development experience, committed to optimizing web performance.</h3>
 
 -------------
 
