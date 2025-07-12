@@ -13,5 +13,6 @@
 - Gmail: **yongchensu0@gmail.com**
 - CakeResume: **[https://www.cakeresume.com/yongchensu0](https://www.cakeresume.com/me/yongchensu0)**
 - Linkin: **https://www.linkedin.com/in/harry-su-854898174/**
+- Blog: **https://yongchen-blog.vercel.app/**
 
 -------------
