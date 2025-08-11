@@ -11,7 +11,7 @@
 <h3 align="left">📫 Connect with me</h3>
 
 - Gmail: **yongchensu0@gmail.com**
-- CakeResume: **[https://www.cakeresume.com/yongchensu0](https://www.cakeresume.com/me/yongchensu0)**
+- Cake: **[https://www.cakeresume.com/yongchensu0](https://www.cakeresume.com/me/yongchensu0)**
 - Linkin: **https://www.linkedin.com/in/harry-su-854898174/**
 - Blog: **https://yongchen-blog.vercel.app/**
 
