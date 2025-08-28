@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/YongChenSu/YongChenSu/main/banner.gif">
 </p>
 
-<h4 align="center">A passionate Frontend Engineer with over 4.5 years of development experience, committed to optimizing web performance.</h3>
+<h4 align="center">A delivery-driven frontend engineer with over 4.5 years of development experience, specializing in Next.js, React, and TypeScript. Skilled in clear communication and collaboration, and dedicated to building high-quality, user-centric applications.</h3>
 
 -------------
 
